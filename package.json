@@ -1,0 +1,26 @@
+{
+  "name": "fududeye-backend",
+  "version": "1.0.0",
+  "description": "backend for search fudueye ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedabdifitah/fududeye-backend.git"
+  },
+  "author": "moh'ed c/fitax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedabdifitah/fududeye-backend/issues"
+  },
+  "homepage": "https://github.com/mohamedabdifitah/fududeye-backend#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11",
+    "nodemon": "^2.0.7"
+  }
+}
